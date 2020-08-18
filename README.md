@@ -10,12 +10,14 @@
 
 ## Influencer
 - [오픈AI CTO 그렉 브록만 Greg Brockman](https://twitter.com/gdb)
-- []()
+
 
 ## Education
 
 ## Application
- -[]()
+- [샤리프 샤밈 debuild: GPT-3 based designing app](https://twitter.com/sharifshameem)
+ - [GPT-3 likes emojis too](https://twitter.com/sharifshameem/status/1284815412949991425)
+ - [GPT-3 generating the code](https://twitter.com/sharifshameem/status/1283322990625607681)
  
 ## OpenAI & GPT3 News + Article Pack
  - [The untold story of GPT-3 is the transformation of OpenAI](https://bdtechtalks.com/2020/08/17/openai-gpt-3-commercial-ai/)
