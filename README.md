@@ -18,6 +18,16 @@
 - [샤리프 샤밈 debuild: GPT-3 based designing app](https://twitter.com/sharifshameem)
   + [GPT-3 likes emojis too](https://twitter.com/sharifshameem/status/1284815412949991425)
   + [GPT-3 generating the code](https://twitter.com/sharifshameem/status/1283322990625607681)
+- [Jordan Singer - Figma x GPT-3](https://twitter.com/jsngr)
+  + [GPT-3 & Figma plugin that describes your design](https://twitter.com/jsngr/status/1294635175222157313)
+  + [GPT-3 Figma Plugin](https://twitter.com/jsngr/status/1284511080715362304)
+  + [GPT-3 × Figma plugin that takes a URL and a description to mock up a website](https://twitter.com/jsngr/status/1287026808429383680)
+  ```
+  How it works: I made a basic representation of the Figma canvas which GPT-3 generates after providing a few raw text examples. I then take that representation and translate it into Figma plugin code to build a screen.
+  
+  High level order of operations: raw text → Figma canvas representation → Figma plugin code
+  ```
+- [Chatbot for people learning a new language](https://twitter.com/albertgozzi/status/1290731007965044737)
  
 ## OpenAI & GPT3 News + Article Pack
  - [The untold story of GPT-3 is the transformation of OpenAI](https://bdtechtalks.com/2020/08/17/openai-gpt-3-commercial-ai/)
