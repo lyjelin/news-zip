@@ -1,4 +1,4 @@
-# AITimes_GPT3
+# GPT3 Kor & Eng
 
 ## MinGPT
 - [Karpathy의 MinGPT 깃허브](https://github.com/karpathy/minGPT.git)
