@@ -18,8 +18,8 @@
  -[]()
  
 ## OpenAI & GPT3 News + Article Pack
- -[The untold story of GPT-3 is the transformation of OpenAI](https://bdtechtalks.com/2020/08/17/openai-gpt-3-commercial-ai/)
- -[Fake blog by GPT3 successfully fooled thousands of readers](https://www.explica.co/a-blog-completely-generated-by-artificial-intelligence-achieves-a-good-number-of-readers/)
+ - [The untold story of GPT-3 is the transformation of OpenAI](https://bdtechtalks.com/2020/08/17/openai-gpt-3-commercial-ai/)
+ - [Fake blog by GPT3 successfully fooled thousands of readers](https://www.explica.co/a-blog-completely-generated-by-artificial-intelligence-achieves-a-good-number-of-readers/)
  - [Lex Fridman: GPT3 vs Human Brain](https://www.youtube.com/watch?v=kpiY_LemaTc)
  
  ## GPT-3 논문
