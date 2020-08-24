@@ -15,6 +15,9 @@
 ## Education
 
 ## Application
+- [구글 이메일 플러그인](https://twitter.com/mattshumer_/status/1296979845143044107)
+- [](https://twitter.com/nikita_jerschow/status/1296652684531863552)
+- [게임 디자인 ](https://twitter.com/heymaslo/status/1293293066732929025)
 - [샤리프 샤밈 debuild: GPT-3 based designing app](https://twitter.com/sharifshameem)
   + [GPT-3 likes emojis too](https://twitter.com/sharifshameem/status/1284815412949991425)
   + [GPT-3 generating the code](https://twitter.com/sharifshameem/status/1283322990625607681)
