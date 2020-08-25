@@ -15,7 +15,9 @@
 ## Education
 
 ## Application
-- [구글 이메일 플러그인](https://twitter.com/mattshumer_/status/1296979845143044107)
+- [영국 영어를 미국 영어로!](https://twitter.com/badphilosopher/status/1298286536555814918)
+- [Gmail 플러그인](https://twitter.com/mattshumer_/status/1296979845143044107)
+- [한줄로 Gmail 메일 작성](https://twitter.com/SamanyouGarg/status/1297958041262776325)
 - [](https://twitter.com/nikita_jerschow/status/1296652684531863552)
 - [게임 디자인 ](https://twitter.com/heymaslo/status/1293293066732929025)
 - [샤리프 샤밈 debuild: GPT-3 based designing app](https://twitter.com/sharifshameem)
