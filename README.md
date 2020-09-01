@@ -15,6 +15,7 @@
 ## Education
 
 ## Application
+- [영수증에서 정보 추출](https://twitter.com/theaievangelist/status/1300862719969681411)
 - [트윗 생성기](https://twitter.com/sushant_kumar/status/1283314235842297856?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1283314235842297856%7Ctwgr%5E&ref_url=https%3A%2F%2Fanalyticsindiamag.com%2F7-online-fun-tools-created-on-gpt-3%2F)
 - [영국 영어를 미국 영어로!](https://twitter.com/badphilosopher/status/1298286536555814918)
 - [Gmail 플러그인](https://twitter.com/mattshumer_/status/1296979845143044107)
