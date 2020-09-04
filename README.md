@@ -1,5 +1,7 @@
 # GPT3 Kor & Eng
 
+## KoGPT2
+- [GPT-2 한국어](https://github.com/SKT-AI/KoGPT2)
 ## MinGPT
 - [Karpathy의 MinGPT 깃허브](https://github.com/karpathy/minGPT.git)
 
